@@ -1,15 +1,15 @@
 ---
-title: "My Postcard"
+title: "Elin Waring"
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/elinwaring"
   - label: GitHub
     url: "https://github.com/elinw"
   - label: Email
     url: "mailto:elin.waring@lehman.cuny.edu"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
@@ -20,10 +20,10 @@ I teach sociology and data science at Lehman College.
 
 **Swarthmore College** | Swarthmore, PA
 
-B.A. in Sociology and Anthroplogy| 1981
+B.A. in Sociology and Anthropology| 1981
 
 ## Experience
 
 **Lehman College** | Professor | Present
 
-Description of role and responsibilities.
+Teach courses and do research

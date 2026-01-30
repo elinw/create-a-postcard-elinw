@@ -3,7 +3,7 @@ title: "Elin Waring"
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/elinwaring"
+    url: "https://linkedin.com/elin-waring-51b64a4"
   - label: GitHub
     url: "https://github.com/elinw"
   - label: Email
